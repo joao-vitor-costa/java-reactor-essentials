@@ -1,4 +1,4 @@
-### Java Reactor Essentials vai guiar
+### Java Reactor Essentials
 
 ##### Todos casos de desmonstração estão nas classes de testes.
 
